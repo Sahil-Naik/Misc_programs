@@ -1,3 +1,10 @@
+/*
+Name: Sahil S. Naik
+PRN: S20111006
+Subject: CG Lab
+Assignment: #1
+*/
+
 #include <conio.h>
 #include <iostream>
 #include <graphics.h>
