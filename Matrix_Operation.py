@@ -1,3 +1,6 @@
+#This program perfroms basic matrix operations using Numpy
+#Beginner level
+
 import numpy as np
 
 matx = np.array([[1,2],[5,4]])
